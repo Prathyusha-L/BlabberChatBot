@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+<title>Name : - Prathyusha Lachireddy, BlabberChatBot</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body bgcolor="033E3E">
+
+<h1 style="color:white"> BlabberChatBot </h1>
+<h1 style="color:white"> Health chat bot </h1>
+<h1 style="color:white;">Name : - Prathyusha Lachireddy</h1>
+<h1 style="color:White;">Microsoft azure</h1>
+
+
+<marquee behavior="scroll" direction="right" style="color:white">BlabberChatBot</marquee>
+
+
+<iframe src='https://webchat.botframework.com/embed/blabberchatbot-bot?s=NEl8LiPB5HY.2PVZZkBwfClQPixnYoSUFY0TNtyfqQ7qpBETWY001K0'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+
+
+
+<p style="color:white">
+
+1. Stress now stands as a prevailing problem in the present-day scenario. Healthier employees operating under manageable levels of stress will be happier and more positive, helping to maintain a strong, healthy workplace culture that's conducive to creativity and productivity. Less sick days: Stress is one of the leading causes of absenteeism in the workplace. Stress management serves as beneficial as it reduces heart diseases, digestive problems, blood pressure, and many more physical ailments. 
+</p>
+
+
+<p style="color:white">
+2. The main problem that I am trying to highlight is that in the present scenario many people are working under various circumstances who are now going through a lot of stress and are hyperventilating due to the overload of the work, but long-term stress can lead to health problems. 
+</p>
+
+
+<p style="color:white">
+3. stands as a stress buster as: - • Tells jokes to the user • This program which is built on PyCharm, breaks down your “orders” into individual sounds. It then consults a database containing various words’ pronunciations to find which words most closely correspond to the combination of individual sounds. • It then identifies important words to make sense of the tasks and carry out corresponding functions. For instance, if Blabber notices words like “play” or “play song”, it would open YouTube. 
+</p>
+
+
+<p style="color:white">
+4. yes, the purpose and the need of this program are high as every individual is going to stress in their daily lives. The problem statement stands on that note and the opportunity is that there are not many voice assistants in the smartwatches that focus on the health and the stress levels of the user. </p>
+
+
+</body>
+</html>
+
+ 
+
